@@ -1,2 +1,4 @@
 # AI-Chatbot-Website
-chatbot
+Tech Stack: HTML, CSS, JS, Python (Flask, Transformers, LLM)
+Description: Chat-GPT like website using an open source LLM from Hugging Face.
+
